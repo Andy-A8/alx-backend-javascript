@@ -1,5 +1,5 @@
 function calculateNumber(type, a, b){
-	const rounded_a Math.round(a);
+	const rounded_a = Math.round(a);
 	const rounded_b = Math.round(b);
 
 	if (type === 'SUM') {
